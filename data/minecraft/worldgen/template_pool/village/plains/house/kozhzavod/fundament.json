@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:village/plains/house/kozhzavod/fundament",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/kozhzavod/fundament",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/house/kozhzavod/fundament"
+}

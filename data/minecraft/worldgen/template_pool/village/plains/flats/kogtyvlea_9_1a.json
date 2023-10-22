@@ -1,0 +1,79 @@
+{
+  "name": "minecraft:village/plains/flats/kogtyvlea_9_1a",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_a",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_b",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_c",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_d",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_e",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_f",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_g",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyvlea_9_1/flats_medium_a_h",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/flats/kogtyvlea_9_1a"
+}

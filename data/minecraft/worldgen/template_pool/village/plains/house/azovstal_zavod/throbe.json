@@ -1,0 +1,70 @@
+{
+  "name": "minecraft:village/plains/house/azovstal_zavod/throbe",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/thrube/variant_1",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/thrube/variant_2",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/thrube/variant_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/thrube/variant_4",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/thrube/variant_5",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/thrube/variant_5",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/thrube/variant_6",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/house/azovstal_zavod/throbe"
+}

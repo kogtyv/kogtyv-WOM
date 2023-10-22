@@ -1,0 +1,88 @@
+{
+  "name": "minecraft:village/plains/flats/p3basya_7_clasic_h",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_a",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_b",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_c",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_d",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_e",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_f",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_g",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_h",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/p3basya_7_clasic/flats_mediumlong_b_i",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/flats/p3basya_7_clasic_h"
+}

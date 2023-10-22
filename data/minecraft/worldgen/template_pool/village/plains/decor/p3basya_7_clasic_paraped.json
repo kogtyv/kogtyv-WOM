@@ -1,0 +1,61 @@
+{
+  "name": "minecraft:village/plains/decor/p3basya_7_clasic_paraped",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/p3basya_7_clasic/paraped_smooth_stone_slab",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/p3basya_7_clasic/paraped_stone_brick_slab",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/p3basya_7_clasic/paraped_polished_granite_slab",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/p3basya_7_clasic/paraped_polished_diorite_slab",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/p3basya_7_clasic/paraped_polished_andesite_slab",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/p3basya_7_clasic/paraped_deepslate_tile_slab",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/decor/p3basya_7_clasic_paraped"
+}

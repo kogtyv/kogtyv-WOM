@@ -1,0 +1,43 @@
+{
+  "name": "minecraft:village/plains/decor/monikalong_9_4_paraped",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/monikalong_9_4/parapet_iron",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/monikalong_9_4/paraped_wood",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/monikalong_9_4/paraped_wood2",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/monikalong_9_4/paraped_wood3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/decor/monikalong_9_4_paraped"
+}

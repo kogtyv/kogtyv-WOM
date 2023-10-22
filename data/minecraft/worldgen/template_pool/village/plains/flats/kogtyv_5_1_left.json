@@ -1,0 +1,70 @@
+{
+  "name": "minecraft:village/plains/flats/kogtyv_5_1_left",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_1/flats_2x2a_left",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_1/flats_2x2b_left",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_1/flats_2x2c_left",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_1/flats_2x2d_left",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_1/flats_2x2e_left",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_1/flats_2x2f_left",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_1/flats_2x2sequrity_left",
+        "processors": "minecraft:set_air",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/flats/kogtyv_5_1_left"
+}

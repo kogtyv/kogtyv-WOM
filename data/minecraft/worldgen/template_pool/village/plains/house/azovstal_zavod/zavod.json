@@ -1,0 +1,52 @@
+{
+  "name": "minecraft:village/plains/house/azovstal_zavod/zavod",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/zavod/variant_1",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/zavod/variant_2",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/zavod/variant_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/zavod/variant_4",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/azovstal_zavod/zavod/variant_5",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/house/azovstal_zavod/zavod"
+}

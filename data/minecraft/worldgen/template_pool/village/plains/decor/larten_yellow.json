@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:village/plains/decor/larten_yellow",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/decor/larten_yellow",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/decor/larten_yellow"
+}

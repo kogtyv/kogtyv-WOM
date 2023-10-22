@@ -1,0 +1,52 @@
+{
+  "name": "minecraft:village/plains/houses",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/p3basya_7_shop/butcher",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/p3basya_7_shop/fisher",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/p3basya_7_shop/libryary",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/p3basya_7_shop/shepperd",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/p3basya_7_shop/farmer",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/pidbuild/p3basya_7_shop"
+}

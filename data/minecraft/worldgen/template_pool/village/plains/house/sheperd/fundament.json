@@ -1,0 +1,25 @@
+{
+  "name": "minecraft:village/plains/house/sheperd/fundament",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/sheperd/fundament_a",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/sheperd/fundament_b",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/house/sheperd/fundament"
+}

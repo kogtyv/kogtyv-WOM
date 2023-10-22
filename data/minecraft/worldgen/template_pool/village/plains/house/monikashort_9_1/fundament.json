@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:village/plains/house/monikashort_9_1/fundament",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/monikashort_9_1/fundament",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/house/monikashort_9_1/fundament"
+}

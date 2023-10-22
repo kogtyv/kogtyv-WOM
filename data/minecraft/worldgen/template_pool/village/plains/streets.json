@@ -1,0 +1,79 @@
+{
+  "name": "minecraft:village/plains/streets",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_01",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_02",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_03",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_04",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_05",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_06",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 12,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_07",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "minecraft:village/plains/streets/straight_08",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/terminator"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "minecraft:village/plains/houses",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/kogtyv_9_5_shop/lib",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/kogtyv_9_5_shop/bucher",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "minecraft:village/plains/houses/pidbuild/kogtyv_9_5_shop/fisher",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/pidbuild/kogtyvshop_01"
+}
