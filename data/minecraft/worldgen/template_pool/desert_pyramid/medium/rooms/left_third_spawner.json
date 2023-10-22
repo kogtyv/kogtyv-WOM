@@ -1,0 +1,33 @@
+{
+  "name": "minecraft:desert_pyramid/medium/rooms/left_third_spawner",
+  "fallback": "minecraft:desert_pyramid/medium/rooms/left_third_spawner",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/left_c/spawner_1",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/left_c/spawner_2",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/left_c/spawner_3",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

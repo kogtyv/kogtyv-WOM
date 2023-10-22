@@ -1,0 +1,24 @@
+{
+  "name": "minecraft:desert_pyramid/medium/rooms/top_second_woodstorage",
+  "fallback": "minecraft:desert_pyramid/medium/rooms/top_second_woodstorage",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/top_b/woodstorage_1",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/top_b/woodstorage_2",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

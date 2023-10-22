@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:desert_pyramid/medium/rooms/right_second_conundrum",
+  "fallback": "minecraft:desert_pyramid/medium/rooms/right_second_conundrum",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/right_b/conundrum_1",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/right_b/conundrum_2",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/right_b/conundrum_3",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/right_b/conundrum_4",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "minecraft:desert_pyramid/small/rooms_right",
+  "fallback": "minecraft:desert_pyramid/small/rooms_right",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_01",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_02",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_03",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_04",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_05",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_06",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_07",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_08",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_09",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_10",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/small/rooms/room_right_11",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}
