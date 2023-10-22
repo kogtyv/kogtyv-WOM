@@ -1,0 +1,1 @@
+say Thanks for installing the mod. Mod version: 1.0.6
