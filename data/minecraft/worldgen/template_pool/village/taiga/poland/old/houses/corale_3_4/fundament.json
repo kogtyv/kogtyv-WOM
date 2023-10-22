@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:village/taiga/poland/old/houses/corale_3_4/fundament",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/corale_3_4/fundament",
+        "processors": "minecraft:set_stone_briques",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/taiga/poland/old/houses/corale_3_4/fundament"
+}

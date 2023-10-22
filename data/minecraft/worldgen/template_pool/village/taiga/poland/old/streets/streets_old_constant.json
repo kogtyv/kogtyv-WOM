@@ -1,0 +1,48 @@
+{
+  "name": "minecraft:village/taiga/poland/old/streets/streets_old_constant",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 25,
+      "element": {
+        "location": "minecraft:village/taiga/poland/streets_constant/old/street_01",
+        "processors": "minecraft:village_taiga_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 25,
+      "element": {
+        "location": "minecraft:village/taiga/poland/streets_constant/old/street_02",
+        "processors": "minecraft:village_taiga_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "minecraft:village/taiga/poland/streets_constant/old/street_03",
+        "processors": "minecraft:village_taiga_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 35,
+      "element": {
+        "location": "minecraft:village/taiga/poland/streets_constant/old/street_04",
+        "processors": "minecraft:village_taiga_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 90,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

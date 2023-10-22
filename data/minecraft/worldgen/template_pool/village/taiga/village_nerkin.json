@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:village/taiga/village_nerkin",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/villager/sequrity/nerkin",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/taiga/village_nerkin"
+}

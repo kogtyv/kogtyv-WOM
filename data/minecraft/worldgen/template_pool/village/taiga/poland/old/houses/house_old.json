@@ -1,0 +1,78 @@
+{
+  "name": "minecraft:village/taiga/poland/old/houses/houses_old",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/brique_3_2/brique_3_2",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/corale_3_4/corale_3_4",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/andezie_3_3/andezie_3_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/smothie_4_2/smothie_4_2",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/andezitue_2_4/andezitue_2_4",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/brique_4_3/brique_4_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/coblestone_5_3/coblestone_5_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/houses/old/mitskevych_3_3/mitskevych_3_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

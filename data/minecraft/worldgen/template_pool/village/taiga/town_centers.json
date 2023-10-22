@@ -1,0 +1,42 @@
+{
+  "name": "minecraft:village/taiga/town_centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/old_rynek_small",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/old_rynek_big",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/old_fountain_small",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/old_fountain_big",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

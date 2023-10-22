@@ -1,0 +1,159 @@
+{
+  "name": "minecraft:village/taiga/poland/old/centers/decor",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_1",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_2",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_4",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_5",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_6",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_7",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_8",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_9",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_10",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_11",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_12",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_13",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_14",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_15",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_16",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 40,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/rynek_17",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

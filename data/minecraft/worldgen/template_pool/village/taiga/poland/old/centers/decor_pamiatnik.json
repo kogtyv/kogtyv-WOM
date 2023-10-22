@@ -1,0 +1,33 @@
+{
+  "name": "minecraft:village/taiga/poland/old/centers/decor_pamiatnik",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/pamiatnik/kopernik",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/pamiatnik/mickiewicz",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/pamiatnik/juliusz",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

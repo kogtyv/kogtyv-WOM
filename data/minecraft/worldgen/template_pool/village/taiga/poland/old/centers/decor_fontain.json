@@ -1,0 +1,60 @@
+{
+  "name": "minecraft:village/taiga/poland/old/centers/decor_fontain",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/fontain_1",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/fontain_2",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/fontain_3",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/fontain_4",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/fontain_5",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/taiga/poland/centers/decor/fontain_6",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}
