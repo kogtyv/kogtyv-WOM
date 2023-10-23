@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 8
+      },
+      "bonus_rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "minecraft:book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "minecraft:writable_book"
+        }
+      ]
+    }
+  ]
+}
