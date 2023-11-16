@@ -1,0 +1,51 @@
+{
+  "name": "minecraft:desert_pyramid/big/pieuntra1/room_left_b/iretation_3",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/big/rooms/pieuntra1/room_4/chaotiq_1",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/big/rooms/pieuntra1/room_4/chaotiq_2",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/big/rooms/pieuntra1/room_4/chaotiq_3",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/big/rooms/pieuntra1/room_4/chaotiq_4",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/big/rooms/pieuntra1/room_4/chaotiq_5",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}
