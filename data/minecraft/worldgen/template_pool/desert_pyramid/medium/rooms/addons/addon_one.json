@@ -1,0 +1,114 @@
+{
+  "name": "minecraft:desert_pyramid/medium/rooms/addons/addon_one",
+  "fallback": "minecraft:desert_pyramid/medium/rooms/addons/addon_one",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_2and3_a",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_2and3_b",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_2and3_c",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_2and3_d",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_4_a",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_4_b",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_4_c",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/chaotiq_1nchaotiq_4r_a",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/conundrum_1r_a",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/conundrum_2n3r_a",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/conundrum_2n3r_b",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:desert_pyramid/medium/rooms/addons/conundrum_4r_a",
+        "processors": "minecraft:set_air_undeground",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}
