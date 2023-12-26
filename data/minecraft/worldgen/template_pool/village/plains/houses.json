@@ -230,15 +230,6 @@
     {
       "weight": 30,
       "element": {
-        "location": "minecraft:village/plains/houses/twobalkon9",
-        "processors": "minecraft:patern_andesite",
-        "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 30,
-      "element": {
         "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
@@ -246,7 +237,7 @@
       }
     },
     {
-      "weight": 30,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka_shop",
         "processors": "minecraft:patern_andesite",
