@@ -1,0 +1,51 @@
+{
+  "name": "minecraft:village/plains/house/yuzhnoukrayinsk_svechka/paraped",
+  "fallback": "minecraft:village/plains/house/yuzhnoukrayinsk_svechka/paraped",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/paraped/paraped_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/paraped/paraped_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/paraped/paraped_3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/paraped/paraped_4",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/paraped/paraped_5",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

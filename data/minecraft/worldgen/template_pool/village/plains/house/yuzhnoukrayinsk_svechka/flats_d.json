@@ -1,0 +1,96 @@
+{
+  "name": "minecraft:village/plains/house/yuzhnoukrayinsk_svechka/flats_d",
+  "fallback": "minecraft:village/plains/house/yuzhnoukrayinsk_svechka/flats_d",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_4",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_5",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_6",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_7",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_8",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_9",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_d/kogtyv_10",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

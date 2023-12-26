@@ -1,0 +1,96 @@
+{
+  "name": "minecraft:village/plains/house/yuzhnoukrayinsk_svechka/flats_a",
+  "fallback": "minecraft:village/plains/house/yuzhnoukrayinsk_svechka/flats_a",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/kogtyv_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/kogtyv_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/kogtyv_3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/mr_divar_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/mr_divar_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/mr_divar_3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/mr_divar_4",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/mr_divar_5",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 80,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/mr_divar_6",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_a/mr_divar_sequrity_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}
