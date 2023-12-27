@@ -19,6 +19,24 @@
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/fundament_c",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/fundament_d",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
     }
   ],
   "fallback": "minecraft:village/plains/house/yuzhnoukrayinsk_svechka/fundament"
