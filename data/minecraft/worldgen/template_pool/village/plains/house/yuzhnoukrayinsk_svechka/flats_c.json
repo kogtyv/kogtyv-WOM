@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 80,
+      "weight": 16,
       "element": {
         "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka/flats_c/mr_divar_3",
         "processors": "minecraft:set_air_flats",
