@@ -6,7 +6,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_a",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -15,7 +15,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_b",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -24,7 +24,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_c",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -33,7 +33,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_d",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -42,7 +42,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_e",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -51,7 +51,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_f",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -60,7 +60,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_g",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -69,7 +69,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2/flats_small_c_h",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }

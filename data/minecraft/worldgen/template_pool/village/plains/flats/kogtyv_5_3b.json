@@ -6,7 +6,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/kogtyv_5_3/flats_3a",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -15,7 +15,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/kogtyv_5_3/flats_3b",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -24,7 +24,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/kogtyv_5_3/flats_3c",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -33,7 +33,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/kogtyv_5_3/flats_3d",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -42,7 +42,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/kogtyv_5_3/flats_3e",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
@@ -51,7 +51,7 @@
       "weight": 50,
       "element": {
         "location": "minecraft:village/plains/houses/kogtyv_5_3/flats_3f",
-        "processors": "minecraft:set_air",
+        "processors": "minecraft:set_air_flats",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }
