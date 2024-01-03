@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 50,
+      "weight": 70,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/street_double_1",
         "processors": "minecraft:village_plains_streets",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "weight": 8,
+      "weight": 18,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/street_double_4",
         "processors": "minecraft:village_plains_streets",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "weight": 40,
+      "weight": 55,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/corner_1",
         "processors": "minecraft:village_plains_streets",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "weight": 40,
+      "weight": 55,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/corner_2",
         "processors": "minecraft:village_plains_streets",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "weight": 40,
+      "weight": 55,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/corner_3",
         "processors": "minecraft:village_plains_streets",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "weight": 30,
+      "weight": 55,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/corner_4",
         "processors": "minecraft:village_plains_streets",
@@ -129,7 +129,7 @@
       }
     },
     {
-      "weight": 30,
+      "weight": 55,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/corner_5",
         "processors": "minecraft:village_plains_streets",
@@ -192,7 +192,7 @@
       }
     },
     {
-      "weight": 20,
+      "weight": 30,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_1",
         "processors": "minecraft:village_plains_streets",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "weight": 25,
+      "weight": 35,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_2",
         "processors": "minecraft:village_plains_streets",
@@ -210,7 +210,7 @@
       }
     },
     {
-      "weight": 10,
+      "weight": 20,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_3",
         "processors": "minecraft:village_plains_streets",
@@ -219,12 +219,18 @@
       }
     },
     {
-      "weight": 20,
+      "weight": 30,
       "element": {
         "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_4",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
       }
     }
   ],
