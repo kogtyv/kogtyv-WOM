@@ -162,5 +162,5 @@
       }
     }
   ],
-  "fallback": "minecraft:village/plains/ussr/village/houses"
+  "fallback": "minecraft:village/plains/ussr/village/houses_saman"
 }
