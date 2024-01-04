@@ -3,7 +3,7 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 1,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_rada",
         "processors": "minecraft:village_common",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_rondo",
         "processors": "minecraft:village_common",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_rynek",
         "processors": "minecraft:village_common",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_statuye",
         "processors": "minecraft:village_common",
@@ -39,9 +39,45 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_altanka",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/center/well_5",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/center/well_6",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/center/well_7",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/center/well_8",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
