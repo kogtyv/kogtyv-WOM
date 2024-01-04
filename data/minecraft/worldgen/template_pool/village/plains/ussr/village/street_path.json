@@ -1,11 +1,146 @@
 {
-  "name": "minecraft:village/plains/ussr/village/street_gravel",
+  "name": "minecraft:village/plains/ussr/village/street_path",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_1",
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_1",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_2",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_3",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_4",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_5",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_6",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_7",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_8",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_9",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_10",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_11",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_12",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_13",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_14",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_15",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/street_path/straight_16",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -14,7 +149,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_2",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_1",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -23,7 +158,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_3",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_2",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -32,7 +167,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_4",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_3",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -41,7 +176,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_5",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_4",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -50,7 +185,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_double_1",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_5",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -59,7 +194,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_double_2",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_6",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -68,16 +203,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_double_3",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 70,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_double_4",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_7",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
@@ -86,205 +212,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_double_5",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/corner_1",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/corner_2",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/corner_3",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/corner_4",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/corner_5",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_long_1",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_long_2",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_long_3",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 85,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_long2_1",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 85,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_long2_2",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 85,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_long2_3",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 40,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_1",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 30,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_2",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 30,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_3",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 30,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_4",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 30,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/cressent_5",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_straight_1",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_straight_2",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_straight_3",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_straight_4",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_straight_5",
-        "processors": "minecraft:village_plains_streets",
-        "projection": "terrain_matching",
-        "element_type": "minecraft:legacy_single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "minecraft:village/plains/ussr/village/street_gravel/street_straight_6",
+        "location": "minecraft:village/plains/ussr/village/street_path/corner_8",
         "processors": "minecraft:village_plains_streets",
         "projection": "terrain_matching",
         "element_type": "minecraft:legacy_single_pool_element"
