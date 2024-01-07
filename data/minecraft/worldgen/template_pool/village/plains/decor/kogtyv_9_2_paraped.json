@@ -8,7 +8,7 @@
         "location": "minecraft:village/plains/decor/kogtyv_9_2/parapet_iron_bars",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -17,7 +17,7 @@
         "location": "minecraft:village/plains/decor/kogtyv_9_2/paraped_andesite",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -26,7 +26,7 @@
         "location": "minecraft:village/plains/decor/kogtyv_9_2/paraped_diorite",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -35,7 +35,7 @@
         "location": "minecraft:village/plains/decor/kogtyv_9_2/paraped_smooth_stone",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     }
   ],

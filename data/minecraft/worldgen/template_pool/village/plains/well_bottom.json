@@ -8,7 +8,7 @@
         "location": "minecraft:village/plains/town_centers/well_bottom_01",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     }
   ]

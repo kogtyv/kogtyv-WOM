@@ -2,7 +2,7 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/small_a",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -11,7 +11,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/small_b",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -20,7 +20,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/small_c",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -29,7 +29,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/small_d",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -38,7 +38,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/medium_a",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -47,7 +47,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/medium_b",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -56,7 +56,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/medium_c",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -65,7 +65,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/medium_d",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -74,7 +74,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/large_a",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -83,7 +83,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/large_b",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -92,7 +92,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/large_c",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -101,7 +101,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/large_d",
         "processors": "minecraft:street_plains",
         "projection": "terrain_matching"
@@ -110,7 +110,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
+        "element_type": "minecraft:single_pool_element",
         "location": "minecraft:village/plains/houses/farms/animal_pen_1",
         "processors": "minecraft:street_plains",
         "projection": "rigid"

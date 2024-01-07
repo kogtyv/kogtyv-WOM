@@ -8,7 +8,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_5_1",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -17,7 +17,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_5_1_building",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -26,7 +26,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_5_2",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -35,7 +35,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_5_3",
         "processors": "minecraft:set_air",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -44,7 +44,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_9_1",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -53,7 +53,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_9_2",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -62,7 +62,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_9_3",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -71,7 +71,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_9_4",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -80,7 +80,7 @@
         "location": "minecraft:village/plains/houses/krutovoy_5",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -89,7 +89,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_9_5_shop",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -98,7 +98,7 @@
         "location": "minecraft:village/plains/houses/kogtyvlea_9_1",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -107,7 +107,7 @@
         "location": "minecraft:village/plains/houses/monikashort_9_1",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -116,7 +116,7 @@
         "location": "minecraft:village/plains/houses/monikaveryshort_9_2",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -125,7 +125,7 @@
         "location": "minecraft:village/plains/houses/monikaveryshort_9_3_decorative",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -134,7 +134,7 @@
         "location": "minecraft:village/plains/houses/monikalong_9_4",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -143,7 +143,7 @@
         "location": "minecraft:village/plains/houses/p2dec_5_clasic",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -152,7 +152,7 @@
         "location": "minecraft:village/plains/houses/p3basya_7_clasic",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -161,7 +161,7 @@
         "location": "minecraft:village/plains/houses/p3basya_7_shop",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -170,7 +170,7 @@
         "location": "minecraft:village/plains/houses/park_01",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -179,7 +179,7 @@
         "location": "minecraft:village/plains/houses/park_02",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -188,7 +188,7 @@
         "location": "minecraft:village/plains/houses/drukarnia",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -197,7 +197,7 @@
         "location": "minecraft:village/plains/houses/kozhzavod",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -206,7 +206,7 @@
         "location": "minecraft:village/plains/houses/azovstal_zavod/mainplatform",
         "processors": "minecraft:village_common",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -215,7 +215,7 @@
         "location": "minecraft:village/plains/houses/sheperd",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -224,7 +224,7 @@
         "location": "minecraft:village/plains/houses/kogtyv_5_bryezhnyevka",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -233,7 +233,7 @@
         "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -242,7 +242,7 @@
         "location": "minecraft:village/plains/houses/yuzhnoukrayinsk_svechka_shop",
         "processors": "minecraft:patern_andesite",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
