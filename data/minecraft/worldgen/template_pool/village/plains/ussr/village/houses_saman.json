@@ -8,7 +8,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/big_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -17,7 +17,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/horse_shop_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -26,7 +26,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/shepperd_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -35,7 +35,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/medium_double_house_1b",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -44,7 +44,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/medium_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -53,7 +53,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/medium_2",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -62,7 +62,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/triple_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -71,7 +71,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/zamac_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -80,7 +80,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/medium_3",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -89,7 +89,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -98,7 +98,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/large_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -107,7 +107,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_2",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -116,7 +116,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/double_2",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -125,7 +125,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/double_3",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -134,7 +134,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/double_4",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -143,7 +143,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/double_5",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -152,7 +152,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/kozha_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -161,7 +161,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_3_divar",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -170,7 +170,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_4_divar",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -179,7 +179,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_5",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -188,7 +188,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/double_6",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -197,7 +197,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/butcher_shop_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -206,7 +206,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_6",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -215,7 +215,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_7",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -224,7 +224,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_8",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -233,7 +233,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/kozha_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -242,7 +242,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_9",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -251,7 +251,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/double_7",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -260,7 +260,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_10",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -269,7 +269,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/small_11",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -278,7 +278,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/double_8",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -287,7 +287,7 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/church_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
@@ -296,7 +296,205 @@
         "location": "minecraft:village/plains/ussr/village/houses/saman/mr_divar_exclusive_1",
         "processors": "minecraft:set_air_flats",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/double_9",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/stone_cutter_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/small_12",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/small_13",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/small_14",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/small_15",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/small_16",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/butcher_shop_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/iron_forge_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/medium_3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/medium_4",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/double_10",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/medium_5",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/medium_6",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/medium_7",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/medium_8",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/mr_divar_exclusive_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/mr_divar_exclusive_3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/mr_divar_exclusive_4",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/mr_divar_exclusive_5",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/mr_divar_exclusive_6",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/ussr/village/houses/saman/mr_divar_exclusive_7",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
       }
     },
     {
