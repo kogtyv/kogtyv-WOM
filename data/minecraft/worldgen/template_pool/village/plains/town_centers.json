@@ -50,7 +50,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/center/well_5",
+        "location": "minecraft:village/plains/village/saman/center/well_5",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -59,7 +59,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/center/well_6",
+        "location": "minecraft:village/plains/village/saman/center/well_6",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -68,7 +68,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/center/well_7",
+        "location": "minecraft:village/plains/village/saman/center/well_7",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -77,7 +77,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/center/well_8",
+        "location": "minecraft:village/plains/village/saman/center/well_8",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -86,7 +86,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/center/well_9",
+        "location": "minecraft:village/plains/village/saman/center/well_9",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -95,7 +95,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "minecraft:village/plains/ussr/village/center/well_10",
+        "location": "minecraft:village/plains/village/saman/center/well_10",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
