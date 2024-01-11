@@ -500,6 +500,42 @@
     {
       "weight": 10,
       "element": {
+        "location": "minecraft:village/plains/village/saman/houses/double_11",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/double_12",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 9,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/soviet_stolov_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/cartografy_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     }
