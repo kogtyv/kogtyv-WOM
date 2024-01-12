@@ -1,0 +1,15 @@
+{
+  "name": "minecraft:village/plains/village/saman/center_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 100,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/center/well_bottom",
+        "processors": "minecraft:village_plains_streets",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
