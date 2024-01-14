@@ -698,6 +698,60 @@
     {
       "weight": 10,
       "element": {
+        "location": "minecraft:village/plains/village/saman/houses/soviet_stonecutter_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/lauriq_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/cozhew_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/forge_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/fletcher_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "minecraft:village/plains/village/saman/houses/fisher_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     }
