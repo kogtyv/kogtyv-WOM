@@ -6,7 +6,7 @@
       "weight": 100,
       "element": {
         "location": "minecraft:desert_pyramid/main_cfg",
-        "processors": "minecraft:set_air_undeground",
+        "processors": "minecraft:set_air",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"
       }

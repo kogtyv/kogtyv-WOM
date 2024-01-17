@@ -755,6 +755,5 @@
         "element_type": "minecraft:empty_pool_element"
       }
     }
-  ],
-  "fallback": "minecraft:village/plains/village/saman/houses_saman"
+  ]
 }
