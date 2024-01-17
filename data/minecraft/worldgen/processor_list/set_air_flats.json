@@ -361,6 +361,24 @@
       ]
     },
     {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:grass_block"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:air"
+          },
+          "output_state": {
+            "Name": "minecraft:void_air"
+          }
+        }
+      ]
+    },
+    {
       "processor_type": "minecraft:block_ignore",
       "blocks": [
         {

@@ -3,66 +3,66 @@
   "fallback": "minecraft:village/plains/village/saman/villagers",
   "elements": [
     {
-      "weight": 100,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/village/saman/villagers/undeground",
-        "processors": "minecraft:village_plains_streets",
+        "processors": "minecraft:empty",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
 	{
-      "weight": 100,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/village/saman/villagers/nitwit",
-        "processors": "minecraft:village_plains_streets",
+        "processors": "minecraft:empty",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
 	{
-      "weight": 100,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/village/saman/villagers/kids",
-        "processors": "minecraft:village_plains_streets",
+        "processors": "minecraft:empty",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
 	{
-      "weight": 100,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/village/saman/villagers/more_bread",
-        "processors": "minecraft:village_plains_streets",
+        "processors": "minecraft:empty",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
 	{
-      "weight": 100,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/village/saman/villagers/more_potato",
-        "processors": "minecraft:village_plains_streets",
+        "processors": "minecraft:empty",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
 	{
-      "weight": 100,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/village/saman/villagers/more_carrot",
-        "processors": "minecraft:village_plains_streets",
+        "processors": "minecraft:empty",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     },
 	{
-      "weight": 100,
+      "weight": 10,
       "element": {
         "location": "minecraft:village/plains/village/saman/villagers/more_beetroot",
-        "processors": "minecraft:village_plains_streets",
+        "processors": "minecraft:empty",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "element_type": "minecraft:single_pool_element"
       }
     }
   ]
