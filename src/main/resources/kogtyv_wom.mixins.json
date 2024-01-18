@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.kogtyv_wom.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"kogtyv_womMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
