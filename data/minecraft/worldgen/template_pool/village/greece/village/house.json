@@ -1,0 +1,78 @@
+{
+  "name": "minecraft:village/greece/village/house",
+  "fallback": "minecraft:village/greece/village/house",
+  "elements": [
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_5",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_6",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_7",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/greece/village/house/small_8",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
