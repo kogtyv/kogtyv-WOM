@@ -8,6 +8,10 @@
   "placement": {
     "type": "minecraft:random_spread",
     "salt": 2007139835,
+	"exclusion_zone": {
+      "other_set": "minecraft:village_greece",
+      "chunk_count": 8
+    },
     "frequency": 0.4,
     "spread_type": "triangular",
     "spacing": 34,
