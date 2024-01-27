@@ -3,7 +3,7 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 10,
+      "weight": 95,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_rada",
         "processors": "minecraft:village_common",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 10,
+      "weight": 95,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_rondo",
         "processors": "minecraft:village_common",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 10,
+      "weight": 95,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_rynek",
         "processors": "minecraft:village_common",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "weight": 10,
+      "weight": 95,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_statuye",
         "processors": "minecraft:village_common",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "weight": 10,
+      "weight": 95,
       "element": {
         "location": "minecraft:village/plains/town_centers/soviet_altanka",
         "processors": "minecraft:village_common",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/well_5",
         "processors": "minecraft:village_common",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/well_6",
         "processors": "minecraft:village_common",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/well_7",
         "processors": "minecraft:village_common",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/well_8",
         "processors": "minecraft:village_common",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/well_9",
         "processors": "minecraft:village_common",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/well_10",
         "processors": "minecraft:village_common",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/altanka_1",
         "processors": "minecraft:village_common",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/memorial_1",
         "processors": "minecraft:village_common",
@@ -129,7 +129,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/bell_1",
         "processors": "minecraft:village_common",
@@ -138,7 +138,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/tree_oak",
         "processors": "minecraft:village_common",
@@ -147,7 +147,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/tree_birch",
         "processors": "minecraft:village_common",
@@ -156,7 +156,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/rynek_oak_1",
         "processors": "minecraft:village_common",
@@ -165,7 +165,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/rynek_oak_2",
         "processors": "minecraft:village_common",
@@ -174,7 +174,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/rynek_birch_1",
         "processors": "minecraft:village_common",
@@ -183,7 +183,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/rynek_birch_2",
         "processors": "minecraft:village_common",
@@ -192,7 +192,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/birch_park",
         "processors": "minecraft:village_common",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 75,
       "element": {
         "location": "minecraft:village/plains/village/saman/center/camping_fire",
         "processors": "minecraft:village_common",
