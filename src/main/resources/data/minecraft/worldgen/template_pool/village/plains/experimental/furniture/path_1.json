@@ -1,6 +1,6 @@
 {
   "name": "minecraft:village/plains/experimental/furniture/path_1",
-  "fallback": "minecraft:empty",
+  "fallback": "minecraft:village/plains/experimental/furniture/path_1",
   "elements": [
     {
       "weight": 50,
@@ -281,6 +281,5 @@
         "element_type": "minecraft:legacy_single_pool_element"
       }
     }
-  ],
-  "fallback": "minecraft:village/plains/experimental/furniture/path_1"
+  ]
 }
