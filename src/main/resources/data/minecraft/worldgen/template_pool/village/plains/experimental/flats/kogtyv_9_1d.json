@@ -1,0 +1,26 @@
+{
+  "name": "minecraft:village/plains/experimental/flats/kogtyv_9_1d",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_9_1/flats_experimental_a",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	{
+      "weight": 150,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_9_1/flats_experimental_b",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/experimental/flats/kogtyv_9_1d"
+}
+
