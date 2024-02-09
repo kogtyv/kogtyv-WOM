@@ -12,27 +12,27 @@
 		"homepage": "https://modrinth.com/mod/kogtyv-wom",
 		"sources": "https://github.com/kogtyv/kogtyv-WOM"
 	},
-	"license": "ARR",
+	"license": "MIT",
 	"icon": "assets/kogtyv_wom/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.kogtyv_wom.kogtyv_wom"
+			"com.kogtyv.wom.WomMod"
 		],
 		"client": [
-			"com.kogtyv_wom.kogtyv_womModClient"
+			"com.kogtyv.wom.WomModClient"
 		]
 	},
 	"mixins": [
-		"kogtyv_wom.mixins.json",
+		"wom.mixins.json",
 		{
-			"config": "kogtyv_wom.client.mixins.json",
+			"config": "wom.client.mixins.json",
 			"environment": "client"
 		}
 	],
 	"depends": {
 		"fabricloader": ">=0.15.0",
-		"minecraft": "~1.20.4",
+		"minecraft": ">=1.20",
 		"java": ">=17",
 		"fabric-api": "*"
 	},
