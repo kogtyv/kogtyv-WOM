@@ -1,0 +1,52 @@
+{
+  "name": "minecraft:village/plains/house/twobalkon9/paraped",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/twobalkon9/paraped/variant_1",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/twobalkon9/paraped/variant_2",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/twobalkon9/paraped/variant_3",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/twobalkon9/paraped/variant_4",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+	{
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/twobalkon9/paraped/variant_5",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/plains/house/twobalkon9/paraped"
+}
