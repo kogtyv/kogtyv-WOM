@@ -1,0 +1,33 @@
+{
+  "name": "minecraft:village/plains/house/kogtyv_5_double_long/paraped",
+  "fallback": "minecraft:village/plains/house/kogtyv_5_double_long/paraped",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_double_long/paraped/variant_1",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_double_long/paraped/variant_2",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_double_long/paraped/variant_3",
+        "processors": "minecraft:set_air_flats",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
