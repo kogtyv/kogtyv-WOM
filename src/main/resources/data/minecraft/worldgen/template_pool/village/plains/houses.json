@@ -21,6 +21,15 @@
       }
     },
     {
+      "weight": 35,
+      "element": {
+        "location": "minecraft:village/plains/houses/kogtyv_5_longxe",
+        "processors": "minecraft:patern_andesite",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
       "weight": 10,
       "element": {
         "location": "minecraft:village/plains/houses/kogtyv_5_1_building",
