@@ -5,7 +5,7 @@
     {
       "weight": 150,
       "element": {
-        "location": "minecraft:village/plains/ussr/houses/brick_red_stalin/home",
+        "location": "minecraft:village/ussr/houses/brick_red_stalin/home",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -14,7 +14,7 @@
     {
       "weight": 150,
       "element": {
-        "location": "minecraft:village/plains/ussr/houses/red_stalin_short/home",
+        "location": "minecraft:village/ussr/houses/red_stalin_short/home",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -23,7 +23,7 @@
     {
       "weight": 150,
       "element": {
-        "location": "minecraft:village/plains/ussr/houses/red_stalin_medium/home",
+        "location": "minecraft:village/ussr/houses/red_stalin_medium/home",
         "processors": "minecraft:village_common",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
