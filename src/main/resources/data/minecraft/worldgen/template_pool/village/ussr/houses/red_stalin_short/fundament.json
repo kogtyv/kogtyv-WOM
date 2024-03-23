@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:village/ussr/houses/red_stalin_short/fundament",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/ussr/houses/red_stalin_short/fundament",
+        "processors": "minecraft:set_cobblestone",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ],
+  "fallback": "minecraft:village/ussr/houses/red_stalin_short/fundament"
+}
