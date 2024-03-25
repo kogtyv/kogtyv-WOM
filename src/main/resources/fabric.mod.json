@@ -2,15 +2,15 @@
 	"schemaVersion": 1,
 	"id": "kogtyv_wom",
 	"version": "${version}",
-	"name": "kogtyv-WOM",
+	"name": "kogtyv-TAV",
 	"description": "This mod adds miniature cities to your world. There are currently two types of city \"USSR\" and \"Old Poland\". These cities are generated in plain and taiga biome. The buildings are generated in different ways, the layout of the rooms has many variations, there are also external decorations of the houses. Everything is assembled with the help of a jigsaw block into a single structure. The theme of the first city - old Soviet panel houses, with factories and stores, here you can also find monuments, fountains, flowerbeds. The cities were built up very densely. The theme of the second city is old architectural middle Ages houses, the cities are usually small in size, have no factories and enterprises, only small stores. \n\n Helping build: Mr_Divar",
 	"authors": [
 		"kogtyv",
 		"Mr_Divar"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/kogtyv-wom",
-		"sources": "https://github.com/kogtyv/kogtyv-WOM"
+		"homepage": "https://modrinth.com/mod/kogtyv-tav",
+		"sources": "https://github.com/kogtyv/kogtyv-TAV"
 	},
 	"license": "MIT",
 	"icon": "assets/kogtyv_wom/icon.png",
